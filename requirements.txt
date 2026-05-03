@@ -1,0 +1,26 @@
+# GUI框架
+PyQt5>=5.15.0
+
+# 数据库
+SQLAlchemy>=2.0.0
+
+# 条码和二维码
+python-barcode>=0.15.0
+Pillow>=10.0.0
+qrcode>=7.4.0
+
+# 报表导出
+openpyxl>=3.1.0
+reportlab>=4.0.0
+
+# 定时任务
+APScheduler>=3.10.0
+
+# 日志
+python-dotenv>=1.0.0
+
+# 打包工具
+cx_Freeze>=6.15.0
+
+# 其他
+configparser
