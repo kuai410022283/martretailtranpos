@@ -124,7 +124,7 @@ MartRetailTranPOS/
 
 ## 📄 开源协议
 
-本项目基于 **MIT License** 协议开源。详情请参阅 [LICENSE](LICENSE) 文件。
+本项目基于 **Apache License** 协议开源。详情请参阅 [LICENSE](LICENSE) 文件。
 
 ---
 
