@@ -130,4 +130,9 @@ MartRetailTranPOS/
 
 ## 📧 联系与支持
 
-如有任何疑问或建议，请提交 [Issue](https://github.com/your-repo/MartRetailTranPOS/issues) 或联系开发团队。
+如有任何疑问或建议，请提交 [Issue](https://github.com/kuai410022283/MartRetailTranPOS/issues) 或联系开发团队。
+
+- **捐赠** 如果觉得项目对你有用，可以捐赠任意资金，捐赠的资金，会用来维护项目及开发成本。
+
+![捐赠二维码](images/捐赠二维码.jpg)
+
