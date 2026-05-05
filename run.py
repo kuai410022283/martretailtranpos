@@ -20,8 +20,8 @@ def init_default_data(db_session):
         if not existing_admin:
             auth_service = AuthService(db)
             admin = auth_service.create_user(
-                username='admin',
-                password='admin123',
+                username='设置您的账号',
+                password='设置您的密码',
                 role='管理员',
                 real_name='系统管理员'
             )
